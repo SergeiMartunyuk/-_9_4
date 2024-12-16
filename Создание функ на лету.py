@@ -29,7 +29,7 @@ class MysticBall:
         return word
 
 
-first_ball = MysticBall('Да', 'Нет', 'Наверное', 'Может быть', 'Никогда')
+first_ball = MysticBall('Да', 'Нет', 'Наверное')
 print(first_ball())
 print(first_ball())
 print(first_ball())
